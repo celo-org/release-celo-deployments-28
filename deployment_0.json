@@ -1,21 +1,5 @@
 [
     {
-        "identifier": "0x1c2a094287dddda7af8d28dcaacd866c7e0fb43d",
-        "beneficiary": "0x8295F000B3C3a2899428A90AdFAa5a024Fed7d96",
-        "releaseStartTime": "2021-12-15T08:00:00.000Z",
-        "releaseCliffTime": 31536000,
-        "numReleasePeriods": 48,
-        "releasePeriod": 2628000,
-        "amountReleasedPerPeriod": "448.197500000000000000",
-        "revocable": true,
-        "releaseOwner": "0xf772F744f0152b6B85095a39f1d5541839710C6e",
-        "refundAddress": "0x6999d581a65B10D7b33a7CEe5a5E06fb58d1D2DF",
-        "subjectToLiquidityProvision": false,
-        "initialDistributionRatio": 1000,
-        "canValidate": false,
-        "canVote": true
-    },
-    {
         "identifier": "0x3d53de428d17c0659c5010cfd8a2455bef815b81",
         "beneficiary": "0x90f150a4c3a7319596b8b73790e058988c54ba82",
         "releaseStartTime": "2021-12-01T08:00:00.000Z",
