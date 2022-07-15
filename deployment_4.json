@@ -16,22 +16,6 @@
         "canVote": true
     },
     {
-        "identifier": "0x19d8fd5d1d2d8f2f7728b26fab4ca107a7ba61e0",
-        "beneficiary": "0xd7b4bF34D9F35438Cf095Cd01dDB5478D5BB5565",
-        "releaseStartTime": "2021-09-15T07:00:00.000Z",
-        "releaseCliffTime": 31536000,
-        "numReleasePeriods": 48,
-        "releasePeriod": 2628000,
-        "amountReleasedPerPeriod": "762.627083333333333333",
-        "revocable": true,
-        "releaseOwner": "0x0a2B8C88952B57ca0a84928fa27339f9690FF134",
-        "refundAddress": "0xDe22679dCA843B424FD0BBd70A22D5F5a4B94fe4",
-        "subjectToLiquidityProvision": false,
-        "initialDistributionRatio": 1000,
-        "canValidate": false,
-        "canVote": true
-    },
-    {
         "identifier": "0xd71eaa9948075a65a14e6a2b7e04bbc9f7bb7513",
         "beneficiary": "0x16eB996cf593fe80372bdE518eA3E16b397B89e2",
         "releaseStartTime": "2022-02-23T08:00:00.000Z",
